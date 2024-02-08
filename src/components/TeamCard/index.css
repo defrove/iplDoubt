@@ -1,0 +1,22 @@
+/* Write your CSS here */
+
+.list1 {
+  border-style: solid;
+  border-width: 1px;
+  padding: 10px;
+  background-color: white;
+  width: 260px;
+  height: 150px;
+  margin: 15px;
+}
+
+.img1 {
+  height: 50px;
+  width: 50px;
+}
+
+/* index.css */
+.team-link {
+  text-decoration: none; /* Remove underline styling for the link */
+  color: inherit; /* Inherit text color from the parent */
+}
